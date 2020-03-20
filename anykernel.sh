@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Kirisakura-Kernel for OP7/Pro aka Guacamole by freak07 @ xda-developers
+kernel.string=Schwifty-Kernel by SaintZ13 @ xda-developers
 do.devicecheck=0
 do.modules=0
 do.cleanup=1
@@ -97,8 +97,8 @@ fi
 
 # end ramdisk changes
     
-	ui_print " "; ui_print "Flashing Kirisakura-Kernel. Enjoy your device and have a nice day!";
-	ui_print " "; ui_print "Please make sure to always run the latest companion magisk module!";
+	ui_print " "; ui_print "Getting Schwifty in here, don't forget to shit on the floor. Enjoy!";
+	ui_print " "; ui_print "Please flash the ramdisk magisk module after.";
 
 
 write_boot;
